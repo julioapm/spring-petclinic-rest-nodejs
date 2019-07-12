@@ -13,5 +13,6 @@
     "appService.zipIgnorePattern": [
         ".vscode{,/**}"
     ],
-    "appService.deploySubpath": ""
+    "appService.deploySubpath": "",
+    "eslint.enable": false
 }
